@@ -1,0 +1,7 @@
+{
+  "name": "AI Academic Writing Assistant",
+  "description": "An advanced AI-powered assistant designed to help students and researchers navigate the complexities of academic writing. It provides detailed information on essay types, thesis formats, marking schemes, and practical writing tips, all coupled with an intelligent chatbot for personalized guidance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
